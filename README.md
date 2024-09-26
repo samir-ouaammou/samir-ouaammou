@@ -2,9 +2,6 @@
 <h3 align="center">         Hello  World!</h3>
 <h3 align="center">              🙂      </h3>h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=samir-ouaammou&label=Profile%20views&color=0e75b6&style=flat" alt="samir-ouaammou" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samir-ouaammou" alt="samir-ouaammou" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/souaammou38592" target="blank"><img src="https://img.shields.io/twitter/follow/souaammou38592?logo=twitter&style=for-the-badge" alt="souaammou38592" /></a> </p>
 
