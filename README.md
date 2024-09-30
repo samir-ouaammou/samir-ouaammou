@@ -1,130 +1,25 @@
-<p align="left"></p>
-
-###
-
-<h1 align="center">Hi 👋, I'm Samir Ouaammou</h1></p></p>
-
-###
-
-<p align="left"></p>
-
-###
-
-<p align="left">I am Samir Ouaammou from Morroco, Web developer enthusiastic 💻,<br>always learning new things, ready for discussions and making new projects 🤖</p>
-
-###
-
-<p align="left"></p>
-
-###
-
-<h3 align="left">🚀 Current Focus</h3>
-
-###
-
-<p align="left">- 🔭 Exploring: The fascinating world of system programming<br>- ✌️  Enjoy to do programming and sharing knowledge<br>- ❤️ Love to writing code and learning new features<br>- 🎯 Aiming: To contribute to open-source projects in the near future</p>
-
-###
-
-<h3 align="left">🛠 Language and tools 🌐</h3>
-
-###
-
-<p align="left"></p>
-
-###
-
-<h5 align="left">. Language 🛠</h5>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
+<p align="center"> <img src="https://img.shields.io/badge/Learning_Developer-Passion_for_Coding-blue?style=for-the-badge" alt="Learning Developer Badge"/> </p> <h1 align="center">Hi 👋, I'm Samir Ouaammou</h1> <p align="center"> Student at 1337 Programming School from Morocco. Passionate about learning programming, participating in discussions and working on projects to hone my skills.. </p> <p align="center"> <img src="https://img.shields.io/github/followers/Samir-42?label=Followers&style=social" alt="GitHub Followers"/> <img src="https://img.shields.io/github/stars/Samir-42?label=Stars&style=social" alt="GitHub Stars"/>  </p>
+<h2 align="left">🚀 Current Focus & Goals</h2> <ul> <li>🔭 <strong>Exploring:</strong> Different areas of programming to expand my knowledge and skills.</li> <li>📘 <strong>Learning:</strong> Deeply focusing on problem-solving, algorithms, and understanding how to write efficient code.</li> <li>🤝 <strong>Collaborating:</strong> Looking forward to collaborating on projects that help me learn and improve.</li> <li>🎯 <strong>Goal:</strong> To work on exciting projects that will help me grow as a programmer.</li> </ul>
+<h2 align="left">🛠️ Skills & Tools</h2> <h3 align="left">🔧 Programming Languages</h3> <div align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C Logo" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++ Logo" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python Logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+</div> <h3 align="left">
+  
+  
+  
+  🌐 Web Technologies</h3> <div align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript Logo" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript Logo" /> </div> <h3 align="left">
+  💻 IDEs & Text Editors</h3> <div align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VSCode Logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="40" alt="Vim Logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
 </div>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gcc/gcc-original.svg" height="40" alt="gcc logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
-</div>
-
-###
-
-<p align="left"></p>
-
-###
-
-<h5 align="left">. Tools 🛠️</h5>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="40" alt="vim logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
-</div>
-
-###
-
-<div align="center">
-</div>
-
-###
-
-<h3 align="left">Connect with me:</h3>
-
-###
-
-<div align="left">
-  <a href="https://instagram.com/samir_ouaammou" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-  <a href="https://facebook.com/profile.php?id=100081891472318" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
-  </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-
-  </a>
-  <a href="https://x.com/souaammou38592" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
-  <a href="https://discord.com/channels/@samir_ouaammou" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
-</div>
-<p><p><div align="center">
+  
+<h2 align="left"> 
+  
+  
+  📬 Connect with Me</h2> <div align="left"> <a href="https://instagram.com/samir_ouaammou" target="_blank"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="Instagram" /> </a> <a href="https://facebook.com/profile.php?id=100081891472318" target="_blank"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="Facebook" /> </a> <a href="https://www.linkedin.com/in/samir-ouaammou" target="_blank"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn" />  </a> <a href="https://x.com/souaammou38592" target="_blank"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="X (Twitter)" /> </a> <a href="https://discord.com/channels/@samir_ouaammou" target="_blank"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="Discord" /> </a> </div>
+<h2 align="center">📈 GitHub Stats</h2> <p><div align="center">
 
 | [![Samir-Ouaammou GitHub stats](https://github-readme-stats.vercel.app/api?username=Samir-Ouaammou&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=jolly)](https://github.com/Samir-Ouaammou?tab=repositories) | [![Samir-Ouaammou most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Samir-Ouaammou&layout=compact&hide_border=true&theme=jolly)](https://github.com/Samir-Ouaammou?tab=repositories) |
 |:-:|:-:|
 
-</div><p></p></p>
+</div><p
