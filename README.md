@@ -123,14 +123,9 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
 </div>
+<p><p><div align="center">
 
-###
+| [![Samir-Ouaammou GitHub stats](https://github-readme-stats.vercel.app/api?username=Samir-Ouaammou&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=jolly)](https://github.com/Samir-Ouaammou?tab=repositories) | [![Samir-Ouaammou most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Samir-Ouaammou&layout=compact&hide_border=true&theme=jolly)](https://github.com/Samir-Ouaammou?tab=repositories) |
+|:-:|:-:|
 
-<h3 align="left">🔥   My Stats :</h3>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samir-ouaammou&show_icons=true&locale=en&layout=compact" alt="samir-ouaammou" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samir-ouaammou&show_icons=true&locale=en" alt="samir-ouaammou" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samir-ouaammou&" alt="samir-ouaammou" /></p>
-
+</div><p></p></p>
