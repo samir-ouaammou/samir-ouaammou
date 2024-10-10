@@ -1,4 +1,12 @@
-<p align="center"> <img src="https://img.shields.io/badge/Learning_Developer-Passion_for_Coding-blue?style=for-the-badge" alt="Learning Developer Badge"/> </p> <h1 align="center">Hi 👋, I'm Samir Ouaammou</h1> <p align="center"> Student at 1337 Programming School from Morocco. Passionate about learning programming, participating in discussions and working on projects to hone my skills.. </p> <p align="center"> <img src="https://img.shields.io/github/followers/Samir-Ouaammou?label=Followers&style=social" alt="GitHub Followers"/> <img src="https://img.shields.io/github/stars/Samir-Ouaammou?label=Stars&style=social" alt="GitHub Stars"/>  </p>
+
+
+ <h1 align="center">Hi 👋, I'm Samir Ouaammou</h1> 
+
+ <p align="center">  
+ <img src ="https://badge.mediaplus.ma/binary/souaammo">
+</p>
+ 
+ <p align="center"> Student at 1337 Programming School from Morocco. Passionate about learning programming, participating in discussions and working on projects to hone my skills.. </p> <p align="center"> <img src="https://img.shields.io/github/followers/Samir-Ouaammou?label=Followers&style=social" alt="GitHub Followers"/> <img src="https://img.shields.io/github/stars/Samir-Ouaammou?label=Stars&style=social" alt="GitHub Stars"/>  </p>
 <h2 align="left">🚀 Current Focus & Goals</h2> <ul> <li>🔭 <strong>Exploring:</strong> Different areas of programming to expand my knowledge and skills.</li> <li>📘 <strong>Learning:</strong> Deeply focusing on problem-solving, algorithms, and understanding how to write efficient code.</li> <li>🤝 <strong>Collaborating:</strong> Looking forward to collaborating on projects that help me learn and improve.</li> <li>🎯 <strong>Goal:</strong> To work on exciting projects that will help me grow as a programmer.</li> </ul>
 <h2 align="left">🛠️ Skills & Tools</h2> <h3 align="left">🔧 Programming Languages</h3> <div align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C Logo" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++ Logo" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python Logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
