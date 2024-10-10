@@ -3,7 +3,7 @@
  <h1 align="center">Hi 👋, I'm Samir Ouaammou</h1> 
 
  <p align="center">  
- <img src ="https://badge.mediaplus.ma/binary/souaammo">
+ <img src ="https://badge.mediaplus.ma/darkblue/souaammo">
 </p>
  
  <p align="center"> Student at 1337 Programming School from Morocco. Passionate about learning programming, participating in discussions and working on projects to hone my skills.. </p> <p align="center"> <img src="https://img.shields.io/github/followers/Samir-Ouaammou?label=Followers&style=social" alt="GitHub Followers"/> <img src="https://img.shields.io/github/stars/Samir-Ouaammou?label=Stars&style=social" alt="GitHub Stars"/>  </p>
