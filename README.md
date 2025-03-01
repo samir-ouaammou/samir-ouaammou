@@ -40,8 +40,7 @@ I'm constantly exploring different areas of programming, with a particular focus
   
 <h2 align="left"> 
   
-  
-  📬 Connect with Me</h2> <div align="left">
+  <h2 align="left">📬 Connect with Me</h2> 
   
   <a href="https://www.linkedin.com/in/samir-ouaammou-53a1b5333/" target="_blank"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="Linkedin" /> </a> <a href="https://instagram.com/samir_ouaammou" target="_blank"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="Instagram" /> </a> <a href="https://facebook.com/profile.php?id=100081891472318" target="_blank"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="Facebook" /> </a> <a href="https://wa.me/212624069184" target="_blank"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="WhatsApp" /> </a> <a href="https://discord.com/channels/@samir_ouaammou" target="_blank"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="Discord" /> </a> </div>
 <h2 align="center">📈 GitHub Stats</h2> <p><div align="center">
