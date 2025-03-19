@@ -11,7 +11,6 @@ I'm constantly exploring different areas of programming, with a particular focus
 <h2 align="left">🚀 Current Focus & Goals</h2> <ul> <li>🔭 <strong>Exploring:</strong> Different areas of programming to expand my knowledge and skills.</li> <li>📘 <strong>Learning:</strong> Deeply focusing on problem-solving, algorithms, and understanding how to write efficient code.</li> <li>🤝 <strong>Collaborating:</strong> Looking forward to collaborating on projects that help me learn and improve.</li> <li>🎯 <strong>Goal:</strong> To work on exciting projects that will help me grow as a programmer.</li> </ul>
 <h2 align="left">
 
-
 <h2 align="left">🛠️ Skills & Tools</h2> 
 
 <h3 align="left">🔧 Programming Languages</h3> 
@@ -27,17 +26,31 @@ I'm constantly exploring different areas of programming, with a particular focus
 <div align="left"> 
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript Logo" /> 
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript Logo" /> 
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js Logo" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React Logo" /> 
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 Logo" /> 
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3 Logo" /> 
 </div> 
 
- 
-  <h3 align="left">💻 IDEs & Text Editors</h3> <div align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VSCode Logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="40" alt="Vim Logo" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
+<h3 align="left">🐧 Operating Systems & DevOps</h3> 
+<div align="left">
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux Logo" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker Logo" />
 </div>
-  
+
+<h3 align="left">🔗 Version Control & Collaboration</h3> 
+<div align="left"> 
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git Logo" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub Logo" />
+</div>
+
+<h3 align="left">💻 IDEs & Text Editors</h3> 
+<div align="left"> 
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VSCode Logo" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="40" alt="Vim Logo" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="Bash Logo" />
+</div>
+
 <h2 align="left"> 
   
   <h2 align="left">📬 Connect with Me</h2> 
