@@ -15,12 +15,13 @@
 
 ### About
 
-Hi, I am a Data Engineering student at 1337 Coding School (UM6P – 42 Network).  
-I am currently focused on building a solid foundation in data engineering by working with real tools and practical projects.
+Hi, I am a Data Engineering student at 1337 Coding School (UM6P – 42 Network).
+I am currently learning how to work with data, build data pipelines, and manage data systems.
 
-I work mainly with Python and SQL to process data, design data pipelines, and understand how modern data systems operate.
+I focus on developing my skills in Python, SQL, and working with databases.
+I am also exploring tools and concepts related to data engineering through practice and small projects.
 
-I am actively improving step by step, with a strong interest in building real-world data solutions and gaining hands-on experience.
+I am interested in gaining real experience, improving step by step, and understanding how data is used in real-world systems.
 
 ---
 
