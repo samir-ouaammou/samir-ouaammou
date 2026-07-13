@@ -106,12 +106,6 @@ I am actively improving step by step, with a strong interest in building real-wo
 
 ---
 
-### 🚀 Projects
-
-Coming soon...
-
----
-
 ### Contact
 
 <p>
