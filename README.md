@@ -127,15 +127,20 @@ I am interested in gaining real experience, improving step by step, and understa
 
 ### 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samir-ouaammou&show_icons=true&hide_border=true&theme=github_dark" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samir-ouaammou&layout=compact&hide_border=true&theme=github_dark" height="150"/>
-</p>
+<div align="center">
+
+| [![Samir-Ouaammou GitHub stats](https://github-readme-stats.vercel.app/api?username=Samir-Ouaammou&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=jolly)](https://github.com/Samir-Ouaammou?tab=repositories) | [![Samir-Ouaammou most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Samir-Ouaammou&layout=compact&hide_border=true&theme=jolly)](https://github.com/Samir-Ouaammou?tab=repositories) |
+|:-:|:-:|
+
+</div>
 
 ---
 
 ### 🐍 Contributions
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/samir-ouaammou/samir-ouaammou/output/github-contribution-grid-snake.svg" width="100%">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Samir-Ouaammou/samir-ouaammou/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Samir-Ouaammou/samir-ouaammou/output/github-contribution-grid-snake.svg">
+    <img alt="snake animation" src="https://raw.githubusercontent.com/Samir-Ouaammou/samir-ouaammou/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
 </p>
