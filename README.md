@@ -128,8 +128,8 @@ I am interested in gaining real experience, improving step by step, and understa
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Samir-Ouaammou&show_icons=true&hide_border=true&theme=github_dark" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samir-Ouaammou&layout=compact&hide_border=true&theme=github_dark" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=samir-ouaammou&show_icons=true&hide_border=true&theme=github_dark" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samir-ouaammou&layout=compact&hide_border=true&theme=github_dark" height="150"/>
 </p>
 
 ---
@@ -137,5 +137,5 @@ I am interested in gaining real experience, improving step by step, and understa
 ### 🐍 Contributions
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Samir-Ouaammou/samir-ouaammou/output/github-contribution-grid-snake.svg" width="100%">
+  <img src="https://raw.githubusercontent.com/samir-ouaammou/samir-ouaammou/output/github-contribution-grid-snake.svg" width="100%">
 </p>
