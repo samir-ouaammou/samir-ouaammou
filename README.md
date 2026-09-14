@@ -22,6 +22,9 @@ class Engineer:
         # Languages
         self.langs = ["C", "C++", "C#", "Python", "JavaScript/TypeScript", "SQL"]
 
+        # Web Development
+        self.web = ["HTML", "CSS", "React", "Next.js", "Node.js", "Tailwind CSS"]
+
         # Tools & Environment
         self.tools = ["Bash", "Git", "Linux", "Docker", "PostgreSQL"]
 
@@ -33,6 +36,7 @@ class Engineer:
         Currently: {self.current_focus}
 
         Languages: {', '.join(self.langs)}
+        Web: {', '.join(self.web)}
         Tools: {', '.join(self.tools)}
         """
 ````
